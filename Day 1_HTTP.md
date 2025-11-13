@@ -81,3 +81,8 @@ When a client wants to communicate with a server, either the final server or an 
 
 
 ![Overview of a HTTP GET request with headers](https://mdn.github.io/shared-assets/images/diagrams/http/overview/http-request.svg)
+**API**
+
+- The Fetch API lets websites ask for information from servers and get back data, like loading a news article or search results. 
+- Server-sent events (SSE) let your browser get live updates from a server, such as news or sports scores, without asking each time.
+- The browser uses something called EventSource to keep the connection open and receive new messages as they happen.
