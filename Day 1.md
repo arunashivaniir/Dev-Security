@@ -37,5 +37,5 @@ Server failed to fulfill request
 500-->internal server error
 
 HTTP/2
-faster n effiecient
-enables multiplexing
+faster n efficient
+enables multiplexing-->enables  full request n response
