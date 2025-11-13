@@ -39,3 +39,17 @@ Server failed to fulfill request
 HTTP/2
 faster n efficient
 enables multiplexing-->enables  full request n response
+
+***PRACTISE ON POSTMAN ***
+
+**GET REQUEST**
+
+![[Screenshot 2025-11-13 222444.png]]
+
+
+**POST REQUEST**
+
+![[Screenshot 2025-11-13 222522.png]]
+
+**DELETE REQUEST**
+![[Screenshot 2025-11-13 222536.png]]
