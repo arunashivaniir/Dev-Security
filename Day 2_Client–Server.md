@@ -33,3 +33,7 @@ A _dynamic site_ is one that can generate and return content based on the spec
 ![[Pasted image 20251114112746.png]]
 
 A _Web Application's_ job is to receive HTTP requests and return HTTP responses. While interacting with a database to get or update information.
+
+WEB FRAMEWORKS FOR SERVER-SIDE
+
+When a website gets a request for a certain link (URL), URL mapping tells the website what piece of code should handle it. This means each webpage or feature can have its own handler, making things simpler and more organized. If a URL changes, you just update the mapping, not all of your code.
