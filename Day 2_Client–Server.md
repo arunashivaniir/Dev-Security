@@ -1,5 +1,5 @@
-Web browsers communicate with web servers using HTTP.
-When an HTML page is returned, it is rendered by the web browser.
+- Web browsers communicate with web servers using HTTP.
+- When an HTML page is returned, it is rendered by the web browser.
 
 REQUEST
 
