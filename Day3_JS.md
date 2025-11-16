@@ -78,3 +78,9 @@ fetchDataAsync();
 - *An `async` function is a function that can `await` the resolution of a Promise. The `await` keyword can only be used inside an `async` function and pauses the execution of the `async` function until the awaited Promise settles.*
 
 - *The most modern and preferred method, making asynchronous code look and feel synchronous, simplifying complex asynchronous flows.*
+
+USING FETCH :
+
+![[Pasted image 20251116194934.png]]
+
+![[Pasted image 20251116195004.png]]
