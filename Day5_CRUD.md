@@ -56,3 +56,9 @@ CLIENT GETS JSON
 **SORTING**
 
 ![[Pasted image 20251117212727.png]]
+
+
+**NOT FOUND HANDLER**
+
+![[Pasted image 20251118153613.png]]
+
