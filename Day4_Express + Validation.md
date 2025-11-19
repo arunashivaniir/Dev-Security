@@ -20,14 +20,14 @@ Route → Controller → Service → Model → Service → Controller → Client
 - Match URL + HTTP method
 - Pass work to controller
 
-> const express = require("express");
-> const router = express.Router();
-> const userController = require("../controllers/user.controller");
+> `const express = require("express");`
+> `const router = express.Router();`
+> `const userController = require("../controllers/user.controller");`
 > 
-> router.post("/register", userController.register);
-> router.get("/profile/:id", userController.getProfile);
+> `router.post("/register", userController.register);`
+> `router.get("/profile/:id", userController.getProfile);`
 > 
-> module.exports = router;
+> `module.exports = router;`
 
 ##### - What does express.json() do?
 
