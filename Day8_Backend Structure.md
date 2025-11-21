@@ -5,6 +5,13 @@ Refactoring the giant file into:
 `middleware/` 
 `utils/`
 
+- `module.exports = ...` lets a file share code
+    
+- `require()` pulls the code into another file
+
+`exports.createUserValidator = [ ... ];`
+You’re allowing other files to import and use it.
+
 **OUTCOMES**
 
 - ###### Broke monolithic API into modular structure
