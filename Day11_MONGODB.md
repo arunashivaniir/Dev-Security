@@ -23,6 +23,8 @@ A **Schema** is the **blueprint** that defines what fields a document should hav
     
 - Validations
 
+Express **Flow:**
 
+`Client → Express Route → Controller → Mongoose Model → MongoDB`
 
 
